@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+# Language Translator
+A language translator application in ReactJS using the Google Translate API.
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 

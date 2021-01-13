@@ -19,7 +19,7 @@ const Convert = ({language, text}) => {
                 params: {
                     q: debouncedText,
                     target: language,
-                    key: 'AIzaSyCHUCmpR7cT_yDFHC98CZJy2LTms-IwDlM'
+                    key: 'INSERT YOUR API KEY HERE'
                 }
             });
             setTranslated(data.data.translations[0].translatedText)
